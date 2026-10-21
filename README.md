@@ -4,7 +4,7 @@ Visualizing wildlife sightings on the William & Mary campus across winter and sp
 
 <img width="800" height="462" alt="squirrel" src="https://github.com/user-attachments/assets/4185a08a-110c-4675-b57a-fc8a88dfb49e" />
 
-🔗 **Live site:** [tlnguyen01.github.io](https://tlnguyen01.github.io/)
+[tlnguyen01.github.io](https://tlnguyen01.github.io/)
 
 # Abstract
 What wildlife lives on campus, and how does it change by season? Here are animal sightings logged around William & Mary during winter and spring, then visualized the same dataset in different ways to show how chart choices shape what you see in the data. The project was inspired by Giorgia Lupi and Stefanie Posavec's *Dear Data*.
