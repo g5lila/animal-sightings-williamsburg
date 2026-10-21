@@ -4,6 +4,8 @@ Visualizing wildlife sightings on the William & Mary campus across winter and sp
 
 <img width="800" height="462" alt="squirrel" src="https://github.com/user-attachments/assets/4185a08a-110c-4675-b57a-fc8a88dfb49e" />
 
+# Site
+
 [tlnguyen01.github.io](https://tlnguyen01.github.io/)
 
 # Abstract
